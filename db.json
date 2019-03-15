@@ -1,29 +1,28 @@
 {
-"contacts":[
-  {
-  "firstName":"bhanu",
-  "lastName":"prakash",
-  "number":"9494799454"
-  },
-  {
-  "firstName":"sohel",
-  "lastName":"yadav",
-  "number":"9494799454"
-  },
-  {
-  "firstName":"pranay",
-  "lastName":"biswas",
-  "number":"9494799454"
-  },
-  {
-  "firstName":"sanjay",
-  "lastName":"sanju",
-  "number":"9494799454"
-  },
-  {
-  "firstName":"sowmya",
-  "lastName":"ranjan",
-  "number":"9494799454"
-  }
-]
+	"contacts": [{
+			"firstName": "bhanu",
+			"lastName": "prakash",
+			"number": "9494799454"
+		},
+		{
+			"firstName": "sohel",
+			"lastName": "yadav",
+			"number": "9494799454"
+		},
+		{
+			"firstName": "pranay",
+			"lastName": "biswas",
+			"number": "9494799454"
+		},
+		{
+			"firstName": "sanjay",
+			"lastName": "sanju",
+			"number": "9494799454"
+		},
+		{
+			"firstName": "sowmya",
+			"lastName": "ranjan",
+			"number": "9494799454"
+		}
+	]
 }
